@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xianyuclash.com/sitemap.xml

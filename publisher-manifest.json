@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "86bf2842c7137dad3a4bf035",
+  "owner": "sftdtmr",
+  "repo": "page-b32ff7c3d3f4e7de92069523",
+  "title": "快连(letsvpn)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b32ff7c3d3f4e7de92069523",
+      "a": "快连(letsvpn)",
+      "b": "2027最新官网",
+      "entity": "快连(letsvpn)",
+      "brand": "快连(letsvpn)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7eff5a001a236e10808bbc8e489c78abbe40ac958de7f24bfac40fc106378d30",
+      "content": {
+        "primary_entity": "快连(letsvpn)",
+        "keyword1": "快连(letsvpn)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，快连(letsvpn)提供基础版、旗舰版与团队版三档订阅，每月流量从100GB到1000GB，支持3至20台设备同时在线，按月或按年付费后，在对应客户端导入订阅即可使用，适合个人、家庭与小型团队按实际需求选择。",
+          "AI_HERO_SUBTITLE": "快连让设备连接更省心",
+          "AI_HERO_INTRO": "快连(letsvpn)提供基础版、旗舰版与团队版订阅，覆盖3至20台设备的连接需求。按月或按年付费后，在客户端导入订阅即可使用，流量从100GB到1000GB分档，适合个人、家庭与小型团队按需选择。",
+          "AI_VISUAL_TITLE": "快连订阅分档清晰",
+          "AI_HIGHLIGHT_1": "月度流量从100GB起",
+          "AI_HIGHLIGHT_2": "单账号支持多台设备",
+          "AI_HIGHLIGHT_3": "年付方案价格更划算",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURES_INTRO": "从设备数量与流量周期入手，快速判断适合自己的快连方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版可扩展到20台，先数一数常用设备再决定。",
+          "AI_FEATURE_TITLE_2": "年付节省明显",
+          "AI_FEATURE_TEXT_2": "基础版年付¥150，旗舰版年付¥350，团队版年付¥850，长期使用按年结算更划算。",
+          "AI_FEATURE_TITLE_3": "流量分档合理",
+          "AI_FEATURE_TEXT_3": "每月100GB、300GB、1000GB三档流量，日常浏览与流媒体各取所需。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，再导入订阅信息完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月适合轻度使用，旗舰版¥35/月兼顾流量与专线，团队版¥85/月面向多设备共享。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量估算，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器系统是否在客户端支持范围内，再决定安装位置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所装客户端内的文档导入订阅信息，完成后刷新节点列表即可连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "按设备与流量需求选一档快连订阅，下载对应客户端即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备、旗舰版 5 台、团队版 20 台同时在线。多人办公建议旗舰版起步，小型团队选团队版更合适。",
+          "AI_FAQ_ANSWER_2": "月付灵活、随时调整，年付按基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年计算，长期使用成本更低。",
+          "AI_FAQ_ANSWER_3": "订阅链接导入客户端后会自动同步节点，客户端内置节点测速与一键切换，按延迟排序选择即可。",
+          "AI_FAQ_ANSWER_4": "基础版为普通线路节点池，旗舰版解锁全节点流媒体并带 IPLC 专线优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "在客户端中查看已用流量与到期时间，接近套餐上限时客户端会提示，届时可在账户中升级或续费。",
+          "AI_FAQ_QUESTION_1": "快连套餐最多支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别，哪个更划算？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端并切换节点？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路和流媒体解锁有差异吗？",
+          "AI_FAQ_QUESTION_5": "流量用完后如何查看用量并续费？",
+          "AI_FAQ_TITLE": "快连常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xianyuclash.com",
+    "host": "xianyuclash.com"
+  },
+  "file_hashes": {
+    "index.html": "f20481ac5cab68cde867f63c98a2812c30b7652f458fb2f72736a6eeb378a026",
+    "sitemap.xml": "b460bc704fc3786c14a6bd841c9143da882aae2f7403ef4077d827a7bd198f5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f0a7a672d0dc5e75f2ebcad3a5c814ea8c33add44aa7a12bdda6e02350a3913",
+    "robots.txt": "a34061311df7c40e11211272f35b71565edab39f3607d5565c648c866ad0010c",
+    "58c77bfdc6ae070b4e4fc3b0c90dfc54.txt": "c53c28a7528e682c8bfd7727a32fcc03cade4b413bc7be5e60bed2d987a723b1"
+  },
+  "revision": "cb16ffa150dc18ad142216353adca72c5ae564844f6b88e8b620ef36f52d0d4a"
+}
